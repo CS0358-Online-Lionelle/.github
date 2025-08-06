@@ -79,7 +79,7 @@ Both are detailed heavily in the canvas shell. Students should expect to spend m
 
 Once the student completes the portfolio they may be asked to resubmit with changes, or they will be invited to setup a technical interview. The technical interview will involve interviewing aspects of their portfolio and working on technical interview problems. 
 
-Students must complete **both** the portfolio and technical interview with the equivalent of a B or higher grade to pass the course. 
+Students must complete **both** the portfolio and technical interview with the equivalent of a B or higher grade to pass the course. We will follow a mastery grading model, in which students will be given opportunities to retake various parts after feedback and a slight weighting period between attempts. 
 
 
 ## Course Materials
