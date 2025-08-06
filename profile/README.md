@@ -45,4 +45,17 @@ By the end of the course, students should demonstrate an understanding of both t
 * Implement programs utilizing the best data structure for the given context
 * Analyze empirically and theoretically new data structures and algorithms
   
-  
+## Course Schedule
+As the course is self-paced, the primary focus is on the final portfolio and technical interview. However, due to Northeastern deadlines, the course *must* be completed at least 15 days before one of the admission deadlines (ideally sooner). This allows students the opportunity to apply for the program and ensures systems are updated to reflect course completion. If you miss the deadline, you will roll to the next deadline.
+
+| Target Semester | Khoury Admissions Deadline |  Technical Interview **Completion** Deadline | Portfolio Submission Deadline |
+| :-------------: | :------------------------: |  :-----------------------------------------: | :--------------------------:  |
+|    Fall         |      May 1                 |                  April 15                    |          April 1              |
+|  Spring <br /> (international students) | October 1     |        September 15               |          September 1          |
+|  Spring <br /> (domestic students)      | December 1    |        November 15                |          November 1           |
+
+For many students starting CS 0359 in the fall, this will mean targeting a start semester of the following fall—so Fall 2025 starts will be targeting a Fall 2026 start date.
+
+> [!IMPORTANT]
+> You should not wait until the deadlines to submit, especially when your portfolio. If your portfolio gets returned with
+> suggested updates and changes, this may mean you will miss the next deadline. Early completion is recommended. 
